@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<div class="row">
+  <div class="col-sm">
+    {{ .Content }}
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm">
+    <div id="choose-kid-form"></div>
+  </div>
+</div>
+
+<script src="/choose-kid-form.js"></script>
+<script>
+var app = Elm.Main.init({
+  node: document.getElementById('choose-kid-form')
+});
+</script>
+
+{{ end }}
