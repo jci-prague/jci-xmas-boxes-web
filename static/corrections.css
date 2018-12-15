@@ -1,3 +1,15 @@
+.margin-bottom-1em {
+  margin-bottom: 1em;
+}
+
+.margin-top-1em {
+  margin-top: 1em;
+}
+
+.margin-top-1-5em {
+  margin-top: 1.5em;
+}
+
 .jumbotron-bg {
   background-image: url('baner.png');
   background-size: cover;
