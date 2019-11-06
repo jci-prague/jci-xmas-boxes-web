@@ -1,7 +1,7 @@
 ---
 title: "Příběh"
 date: 2018-11-24T16:10:17+01:00
-draft: true
+draft: false
 ---
 
 Krabice poputují dětem v pěstounské péči, dětem svěřeným do péče svých prarodičů, starších sourozenců, tet a strýců nebo třeba sousedky. Mnozí z těchto pěstounů se na péči nemohli odborně připravit a vzděláním prochází až v průběhu péče. Mnohdy také řeší složité příbuzenské vztahy a navíc jako rodinní příslušníci nemají automaticky nárok na odměnu, kterou od státu dostávají nepříbuzenští pěstouni. Krabice tedy poputují do rodin v těžké sociální situaci. 

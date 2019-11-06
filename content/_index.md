@@ -1,7 +1,7 @@
 ---
 title: "JCI krabice od bot 2018"
 date: 2018-11-22T21:44:22+01:00
-draft: true
+draft: false
 ---
 
 ## KRABICE OD BOT
