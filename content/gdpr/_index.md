@@ -1,7 +1,7 @@
 ---
 title: "Obecné zásady ochrany osobních údajů"
 date: 2019-11-09T12:16:21+01:00
-draft: true
+draft: false
 ---
 
 ## Obecné zásady ochrany osobních údajů JCI Prague
