@@ -43,6 +43,16 @@ p {
   text-align: justify;
 }
 
-@media (min-width: 574px) {
+@media (min-width: 992px) {
+
   .menu-row { padding-left: 400px; }
+
+}
+
+@media (max-width: 786px) {
+
+  .jumbotron > h1 > span {
+    font-size: 1.5rem;
+  }
+
 }
