@@ -1,10 +1,10 @@
 ---
-title: "O programu"
+title: "O projektu"
 date: 2019-11-06T09:19:23+01:00
 draft: false
 ---
 
-## O programu
+## O projektu
 
 Cílem projektu **Vánoční krabice od bot** je podpořit děti ze sociálně slabších rodin a dětských domovů napříč Českou republikou. A současně také zjednodušit proces obdarování, tak aby dárci vybírali dárky pro konkrétní děti určitého věku a pohlaví a děti následně nalezly pod stromečkem to, co si opravdu přejí.
 
