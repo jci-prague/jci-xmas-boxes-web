@@ -4,14 +4,6 @@ date: 2019-11-08T12:16:23+01:00
 draft: false
 ---
 
-## Jak na to?
-
- * **Obstarej si prázdnou krabici od bot**
- * **Vyber si dítě** pomocí formuláře níže ... po výběru už musíš opravdu krabici udělat!
- *  **Naplň krabici dárky**, podle vlastního uvážení, doporučujeme od všeho trochu, aby byl dárek vyvážený, např. hračka, oblečení, knířka, nekazící se sladkost, pro starší holky sponka či gumička do vlasů, náramek, šampon, , starší kluci ocení třeba sprchový gel, časopis, psací potřeby, karty, atd. Ale samozřejmě je na Tobě, jaký obsah zvolíš.
- *  VĚCI NEMUSÍ BÝT NOVÉ, JE V POŘÁDKU, ŽE BUDOU POUŽITÉ. PROSÍME ALE, ABY BYLY PĚKNÉ A ZACHOVALÉ
- *  Krabici **zabal do papíru a napiš na ni jméno a věk vybraného dítěte**. Pokud si nevybereš žádné dítě ze seznamu, můžeš prostě vyrobit krabici bezejmennou, kterou pak opatříš pouze pohlavím a věkem, pro který je určena, např. **holčička, 4 roky**. Tyto krabice budou předány dětem odpovídajícího věku.
-
 ## Jak a jaké dítě si vybrat?
 
 Děláte-li krabici se svými dětmi, je ideální připravit krabici pro dítě stejného věku a pohlaví. Víte tak nejlépe, co děti rády, co se jim líbí.
