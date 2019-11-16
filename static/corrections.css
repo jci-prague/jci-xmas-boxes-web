@@ -29,6 +29,20 @@
   font-size: 0.75em;
 }
 
+.jumbotron > h1 > span {
+  background-color: rgba(117, 117, 117, 0.7);
+  padding: 0.25em;
+}
+
+a {
+  color: #343a40 !important;
+  text-decoration: underline !important;
+}
+
 p {
   text-align: justify;
+}
+
+@media (min-width: 574px) {
+  .menu-row { padding-left: 400px; }
 }
