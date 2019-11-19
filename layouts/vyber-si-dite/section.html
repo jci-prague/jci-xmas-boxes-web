@@ -17,6 +17,10 @@
 var app = Elm.Main.init({
   node: document.getElementById('choose-kid-form')
 });
+
+app.ports.familyChosen.subscribe(function(s) {
+  window.scrollTo(0,document.body.scrollHeight);
+});
 </script>
 
 {{ end }}
