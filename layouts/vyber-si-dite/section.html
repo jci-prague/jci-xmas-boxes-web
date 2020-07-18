@@ -21,6 +21,10 @@ var app = Elm.Main.init({
 app.ports.familyChosen.subscribe(function(s) {
   window.scrollTo(0,document.body.scrollHeight);
 });
+
+app.ports.donateClicked.subscribe(function(s) {
+  ga('send', 'event', 'Choose kids form', 'Donate clicked');
+});
 </script>
 
 {{ end }}
