@@ -21,7 +21,12 @@
   });
 
   app.ports.donateClicked.subscribe(function (s) {
-    ga("send", "event", "Choose kids form", "Donate clicked");
+    gtag("event", "choose-kid-form", {
+      event_category: "donation",
+    });
+    setTimeout(function () {
+      window.scrollTo(0, document.body.scrollHeight);
+    }, 500);
   });
 </script>
 
