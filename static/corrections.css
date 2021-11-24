@@ -11,7 +11,7 @@
 }
 
 .jumbotron-bg {
-  background-image: url('baner.png');
+  background-image: url("baner.png");
   background-size: cover;
 }
 
@@ -44,19 +44,16 @@ p {
 }
 
 @media (min-width: 992px) {
-
-  .menu-row { padding-left: 400px; }
-
+  .menu-row {
+    padding-left: 400px;
+  }
 }
 
 @media (max-width: 786px) {
-
   .jumbotron > h1 > span {
     font-size: 1.5rem;
   }
-
 }
-
 
 /* Choose kid form */
 div.family-background {
@@ -83,6 +80,11 @@ button.btn.btn-primary {
 }
 button.btn.btn-primary:disabled {
   border-color: rgba(117, 117, 117, 0.7);
+}
+
+button.col.btn.btn-outline-primary.city-btn {
+  background-color: white;
+  color: #343a40;
 }
 
 button.btn.btn-danger {
