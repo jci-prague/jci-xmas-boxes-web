@@ -4,7 +4,13 @@ date: 2018-11-24T21:14:23+01:00
 draft: false
 ---
 
-V tomto formuláři si můžete vybrat dítě podle pohlaví a věku. Je možné filtrovat podle věku a pohlaví. Je možné obdarovat více dětí, a to jak jednotlivě tak sourozence. Sourozence poznáte tak, že pro skupinku dětí je k dispozici pouze jedno tlačítko na obdarování. Po stisknutí tlačítka "Obdarovat" se vybrané dítě nebo sourozenci přenesou do seznamu k obdarování níže ve formuláři. Se seznamu k obdarování je možno dítě či sourozence odebrat stisknutím tlačítka "Odebrat", které vrátí dítě či sourozence zpátky do seznamu k obdarování. Poté, co si vyberete dítě či sourozence, zadejte, prosím, své jméno a email a následně stiskněte tlačítko "Zaregistrovat se". Do emailu Vám pošleme potvrzení výběru dítěte. Na nic jiného email nepoužijeme, maximálně Vám dáme vedět, kdyby se organizačně něco zásadně změnilo.
+Nejprve vyber MĚSTO, ve kterém se nachází sběrné místo, na které dárek přineseš. Dále můžeš vyfiltrovat dítě podle POHLAVÍ A VĚKU.
+
+Je možné obdarovat jedno dítě, více dětí nebo sourozence. Sourozence poznáš tak, že pro skupinku dětí je k dispozici pouze jedno tlačítko na obdarování.
+
+Po stisknutí tlačítka “OBDAROVAT” se vybrané dítě nebo sourozenci přenesou do seznamu k obdarování níže ve formuláři. Ze seznamu k obdarování je možno dítě či sourozence odebrat stisknutím tlačítka “ODEBRAT”, které vrátí dítě či sourozence zpátky do seznamu.
+
+Ve formuláři zadej své jméno a e-mail a následně stiskni tlačítko “ZAREGISTROVAT SE”. Do e-mailu Ti pošleme potvrzení výběru dítěte. Na nic jiného email nepoužijeme, maximálně Ti dáme vedět, kdyby se organizačně něco zásadně změnilo.
 
 ## Registrační formulář
 
